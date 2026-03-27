@@ -50,7 +50,7 @@
 <img width="1920" height="1080" alt="Screenshot 2026-03-26 232357" src="https://github.com/user-attachments/assets/8b9ca49f-2003-4bb8-a7aa-0b87722ac731" />
 <img width="1920" height="1080" alt="Screenshot 2026-03-26 232114" src="https://github.com/user-attachments/assets/36332cf6-644d-4d05-8292-267c573c394f" />
 ### Name:Naveen.M
-### Register Number:212225230134
+### Register Number:212225230198
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
