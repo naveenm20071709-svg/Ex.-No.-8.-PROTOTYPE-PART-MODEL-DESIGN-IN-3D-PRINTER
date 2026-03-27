@@ -44,11 +44,13 @@
 ###   5.	Wait until the nozzle & bed plate comes into the required temperature.
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
-
 ## Output:
-
-### Name:
-### Register Number:
+<img width="1920" height="1080" alt="Screenshot 2026-03-26 232326" src="https://github.com/user-attachments/assets/6a31fbc6-ca81-4740-8285-5d1807060a8b" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-26 232036" src="https://github.com/user-attachments/assets/732d4350-8005-4a9a-b63e-85c3c4e33b3a" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-26 232357" src="https://github.com/user-attachments/assets/8b9ca49f-2003-4bb8-a7aa-0b87722ac731" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-26 232114" src="https://github.com/user-attachments/assets/36332cf6-644d-4d05-8292-267c573c394f" />
+### Name:Naveen.M
+### Register Number:212225230134
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
